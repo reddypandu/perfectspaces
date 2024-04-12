@@ -1,0 +1,31 @@
+/*==================================================
+[Master Stylesheet]
+
+Project:	Aashi Interior - Responsive HTML Template for Interior Design and Decoration
+Version:	1.0
+Assigned to:	Themeforest
+Primary use:	Interior,  Architecture, Creative Agency, Constrcution, Responsive
+
+==================================================*/
+
+/*=============================
+Fonts Include
+=============================*/
+@import url("https://fonts.googleapis.com/css?family=Montserrat:100,200,300,400,500,600,700,800,900");
+
+/*=============================
+Required Plugins Styles
+=============================*/
+@import url("css/bootstrap.min.css");
+@import url("plugins/menu/css/hover-dropdown-menu.css");
+@import url("plugins/font-awesome/css/font-awesome.min.css");
+@import url("plugins/owl-carousel/css/owl.carousel.css");
+@import url("plugins/fancymedia/css/jquery.fancybox.css");
+@import url("css/jquery-ui.css");
+
+/*=============================
+Template CSS Style
+=============================*/
+@import url("css/style.css");
+@import url("css/responsive.css");
+@import url("css/color.css");
